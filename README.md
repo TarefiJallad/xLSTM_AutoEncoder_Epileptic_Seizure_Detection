@@ -62,4 +62,4 @@ EEG Corpus.” 2017. [Online]. Available: http://www.isip.piconepress.com/projec
 - The initial steps of this work was published in [Proceedings of the MEi:CogSci Conference](https://journals.phl.univie.ac.at/meicogsci/index)[Link to abstract](https://journals.phl.univie.ac.at/meicogsci/article/view/978)
 - The following poster was presented on MEi:CogSci conference 2025 in Ljubljana, Slovenia.
 
-![Poster](./misc/img/ResearchPoster.png)
+![Poster](misc\/img/ResearchPoster.png)
